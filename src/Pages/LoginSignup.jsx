@@ -73,7 +73,7 @@ const LoginSignup = () => {
       }
         <div className="loginsignup-agree">
           <input type="checkbox" name='' id='' />
-          <p>By continuing, i agree vto terms of use and privacy.</p>
+          <p>By continuing, i agree to terms of use and privacy.</p>
         </div>
       </div>
       
